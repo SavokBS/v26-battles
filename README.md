@@ -16,4 +16,4 @@ Clients (by DudkaBrawlTeam):
 (with popup - with watermark at start like "Best site for your mom: https://xeondev.com")
 
 # XEON SUCKS
-- согласен - savok
+- савок согласен
